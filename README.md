@@ -53,7 +53,6 @@ Important : Hormis les projets terminés, tous les autres projets sont des idée
 <br>
 <br>
 
-<h2>Fait le 1/25/2026 par GENTI Edwin </h2>
 
 
 
