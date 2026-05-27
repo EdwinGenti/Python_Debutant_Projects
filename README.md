@@ -7,7 +7,7 @@ Le but de ce répertoire est de présenter de nombreux petits projets Python tr�
 <br>
 1- Extraction des routes et des arrêts de bus dans une ville française au choix (OSMnx), et présententation des couches sur une carte interactive folium. (Terminé)
 <br>
-2- Calcul de distance 
+2- Calcul de distances
 <br>
 3- Géocodage d'adresses
 <br>
