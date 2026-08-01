@@ -46,7 +46,7 @@ Important : Hormis les projets terminés, tous les autres projets sont des idée
 - <b>Dans Anaconda Prompt :</b>
 - <b>/conda create -n geo python=3.10</b>
 - <b>/conda activate geo</b>
-- <b>/conda install geopandas rasterion shapely pandas numpy scikit-learn gdal -c conda-forge</b>
+- <b>/conda install geopandas rasterio shapely pandas numpy scikit-learn gdal -c conda-forge</b>
 - <b>/code .</b>
 <h2>Important </h2>
 - <b>Ce projet fait partie de mon apprentissage, et peut être utile à l'apprentissage de Python pour d'autres étudiants. L'utilisation d'IA est faible, l'idée ici est de savoir piocher dans les documentations, les tutoriels et les forums pour comprendre le code.</b>
